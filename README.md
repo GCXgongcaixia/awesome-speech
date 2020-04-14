@@ -46,107 +46,111 @@ this is a treasure-house of speech
 * https://github.com/fernandodelacalle?tab=repositories
 
  ### <h3 id="1.2">open source library/toolbox/code</h3>
- #### Espnet
+ #### 1. Espnet
+ ##### Espnet官网
 * https://github.com/espnet/espnet
 * https://espnet.github.io/espnet/
- #### HTK
+ #### 2. HTK
+ ##### HTK官网
 * http://htk.eng.cam.ac.uk/download.shtml
- #### Py2HTK
+ ##### Py2HTK
 * https://github.com/g-leech/Py2HTK
- #### parallel-htk
+ ##### parallel-htk
 * https://github.com/jpuigcerver/parallel-htk
- #### HTK_C_MATLAB_tools
+ ##### HTK_C_MATLAB_tools
 * https://github.com/sinb/HTK_C_MATLAB_tools
 
- #### Kaldi:
+ #### 3. Kaldi
+ ##### Kaldi官网 
 * https://github.com/kaldi-asr/kaldi
- #### Kaldi官方文档（中文版）
+ ##### Kaldi官方文档（中文版）
 * http://blog.geekidentity.com/asr/kaldi/kaldi_tutorial/
- #### Kaldi models
+ ##### Kaldi models
 * http://kaldi-asr.org/models.html
- #### Corpus Phonetics Tutorial
+ ##### Corpus Phonetics Tutorial
 * https://www.eleanorchodroff.com/tutorial/kaldi/kaldi-intro.html
- #### py-kaldi-asr
+ ##### py-kaldi-asr
 * https://github.com/pykaldi/pykaldi
 * https://github.com/gooofy/py-kaldi-asr
 * https://github.com/UFAL-DSG/pykaldi
 * https://github.com/janchorowski/kaldi-python
- #### Dan's DNN implementation:
+ ##### Dan's DNN implementation:
 * http://kaldi-asr.org/doc/dnn2.html
- #### pytorch-kaldi
+ ##### pytorch-kaldi
 * https://github.com/mravanelli/pytorch-kaldi/
- #### kaldi-lstm
+ ##### kaldi-lstm
 * https://github.com/dophist/kaldi-lstm
- #### kaldi-ctc
+ ##### kaldi-ctc
 * https://github.com/lingochamp/kaldi-ctc
- #### keras-kaldi
+ ##### keras-kaldi
 * https://github.com/dspavankumar/keras-kaldi
- #### python wrapper for kaldi-online-decoder
+ ##### python wrapper for kaldi-online-decoder
 * https://github.com/funcwj/pydecoder
- #### Kaldi+PDNN
+ ##### Kaldi+PDNN
 * https://github.com/yajiemiao/kaldipdnn
- #### tfkaldi
+ ##### tfkaldi
 * https://github.com/vrenkens/tfkaldi
- #### Kaldi_CNTK_AMI
+ ##### Kaldi_CNTK_AMI
 * https://github.com/chenguoguo/Kaldi_CNTK_AMI
- #### kaldi-io-for-python
+ ##### kaldi-io-for-python
 * https://github.com/vesis84/kaldi-io-for-python
- #### kaldi-pyio
+ ##### kaldi-pyio
 * https://github.com/funcwj/kaldi-pyio
- #### kaldi-tree-conv
+ ##### kaldi-tree-conv
 * https://github.com/dophist/kaldi-tree-conv
  #### kaldi-ivector
 * https://github.com/idiap/kaldi-ivector
- #### kaldi-yesno-tutorial
+ ##### kaldi-yesno-tutorial
 * https://github.com/keighrim/kaldi-yesno-tutorial
- #### Kaldi nnet3 教程
+ ##### Kaldi nnet3 教程
 * https://gist.github.com/candlewill/f6c789059bf28b99cee8e18b99c20bfd
- #### Josh Meyer's Website
+ ##### Josh Meyer's Website
 * http://jrmeyer.github.io/
- #### Adapting your own Language Model for Kaldi
+ ##### Adapting your own Language Model for Kaldi
 * https://github.com/srvk/lm_build
- #### Some Kaldi Notes
+ ##### Some Kaldi Notes
 * http://jrmeyer.github.io/asr/2016/02/01/Kaldi-notes.html
 * http://sentiment-mining.blogspot.com/
 * http://pages.jh.edu/~echodro1/tutorial/kaldi/
- #### kaldi_tutorial
+ ##### kaldi_tutorial
 * https://github.com/hyung8758/kaldi_tutorial
- #### Online decoder for Kaldi NNET2 and GMM speech recognition models with Python bindings
+ ##### Online decoder for Kaldi NNET2 and GMM speech recognition models with Python bindings
 * https://github.com/UFAL-DSG/alex-asr
- #### ResNet-Kaldi-Tensorflow-ASR
+ ##### ResNet-Kaldi-Tensorflow-ASR
 * https://github.com/fernandodelacalle/ResNet-Kaldi-Tensorflow-ASR
- #### Kaldi ASR: Extending the ASpIRE model
+ ##### Kaldi ASR: Extending the ASpIRE model
 * https://chrisearch.wordpress.com/2017/03/11/speech-recognition-using-kaldi-extending-and-using-the-aspire-model/
- #### FastCGI support for Kaldi ASR
+ ##### FastCGI support for Kaldi ASR
 * https://github.com/dialogflow/asr-server
- #### alignUsingKaldi
+ ##### alignUsingKaldi
 * https://github.com/Sundy1219/alignUsingKaldi
- #### kaldi-readers-for-tensorflow
+ ##### kaldi-readers-for-tensorflow
 * https://github.com/t13m/kaldi-readers-for-tensorflow
- #### kaldi-iot
+ ##### kaldi-iot
 * https://github.com/dophist/kaldi-iot
- #### lattice-info
+ ##### lattice-info
 * https://github.com/jpuigcerver/lattice-info
- #### lattice-char-to-word
+ ##### lattice-char-to-word
 * https://github.com/jpuigcerver/lattice-char-to-word
- #### lattice-word-length-distribution
+ ##### lattice-word-length-distribution
 * https://github.com/jpuigcerver/lattice-word-length-distribution
- #### kaldi-lattice-word-index
+ ##### kaldi-lattice-word-index
 * https://github.com/jpuigcerver/kaldi-lattice-word-index
- #### kaldi-decoders
+ ##### kaldi-decoders
 * https://github.com/jpuigcerver/kaldi-decoders
- #### lattice-remove-ctc-blank
+ ##### lattice-remove-ctc-blank
 * https://github.com/jpuigcerver/lattice-remove-ctc-blank
- #### kaldi-lattice-search
+ ##### kaldi-lattice-search
 * https://github.com/jpuigcerver/kaldi-lattice-search
- #### htk2kaldi
+ ##### htk2kaldi
 * https://github.com/jpuigcerver/htk2kaldi
- #### parallel-kaldi
+ ##### parallel-kaldi
 * https://github.com/jpuigcerver/parallel-kaldi
- #### kaldi 在线中文识别系统搭建
+ ##### kaldi 在线中文识别系统搭建
 * https://blog.csdn.net/shichaog/article/details/73655628
- #### kaldi-docker
+ ##### kaldi-docker
 * https://github.com/golbin/kaldi-docker
+
  #### CSLT-Sparse-DNN-Toolkit
 * https://github.com/wyq730/CSLT-Sparse-DNN-Toolkit
  #### featxtra
